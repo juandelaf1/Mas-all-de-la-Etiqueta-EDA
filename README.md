@@ -1,3 +1,5 @@
+![cabecera-vinedos](https://github.com/user-attachments/assets/78828135-359f-415b-a8e0-894c8142f7ab)
+
 
 # Análisis Exploratorio de Datos (EDA) sobre Vinos Españoles
 
